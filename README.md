@@ -9,11 +9,10 @@
 ### Know More About Gaurav::point_right: [GarkotiGaurav](https://chandrikadeb7.github.io/):sparkles:
 -->
 
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GarkotiGaurav&label=Profile%20views&color=0e75b6&style=flat" alt="GarkotiGaurav" /> </p>
--->
-
 ![Banner](https://github.com/GarkotiGaurav/GarkotiGaurav/blob/main/Images/Banner.png)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GarkotiGaurav&label=Profile%20views&color=0e75b6&style=flat" alt="GarkotiGaurav" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/ggarkoti02" target="blank"><img src="https://img.shields.io/twitter/follow/ggarkoti02?logo=twitter&style=for-the-badge" alt="Gaurav Garkoti" /></a> </p>
 
