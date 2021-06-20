@@ -9,7 +9,7 @@
 ### Know More About Gaurav::point_right: [GarkotiGaurav](https://chandrikadeb7.github.io/):sparkles:
 -->
 
-![Banner](https://github.com/GarkotiGaurav/GarkotiGaurav/blob/main/Images/Banner.png)
+![Banner](https://github.com/ggarkoti02/ggarkoti02/blob/main/Images/Banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GarkotiGaurav&label=Profile%20views&color=0e75b6&style=flat" alt="GarkotiGaurav" /> </p>
 
@@ -92,15 +92,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p
 <img align="left" alt="Jupyter Notebook" width="40px" src="https://github.com/GarkotiGaurav/GarkotiGaurav/blob/main/Images/jupyter.jpg" />
-<img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/GarkotiGaurav/GarkotiGaurav/blob/main/Images/vs%20code.png" />
-<img align="left" alt="Python" width="60px" src="https://github.com/GarkotiGaurav/GarkotiGaurav/blob/main/Images/python.jpg" />
-<img align="left" alt="Numpy" width="100px" src="https://github.com/GarkotiGaurav/GarkotiGaurav/blob/main/Images/numpy.png" />
-<img align="left" alt="Pandas" width="100px" src="https://github.com/GarkotiGaurav/GarkotiGaurav/blob/main/Images/pandas.png" />
-<img align="left" alt="Matplotlib" width="100px" src="https://github.com/GarkotiGaurav/GarkotiGaurav/blob/main/Images/matplotlib.png" />
-<img align="left" alt="Sicikit-learn" width="60px" src="https://github.com/GarkotiGaurav/GarkotiGaurav/blob/main/Images/sklearn.png" />
-<img align="left" alt="Tensorflow" width="40px" src="https://github.com/GarkotiGaurav/GarkotiGaurav/blob/main/Images/tensorflow.png" />
-<img align="left" alt="Keras" width="40px" src="https://github.com/GarkotiGaurav/GarkotiGaurav/blob/main/Images/keras.png" />
-<img align="left" alt="Postgres" width="100px" src="https://github.com/GarkotiGaurav/GarkotiGaurav/blob/main/Images/postgre.png" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/ggarkoti02/ggarkoti02/blob/main/Images/vs%20code.png" />
+<img align="left" alt="Python" width="60px" src="https://github.com/ggarkoti02/ggarkoti02/blob/main/Images/python.jpg" />
+<img align="left" alt="Numpy" width="100px" src="https://github.com/ggarkoti02/ggarkoti02/blob/main/Images/numpy.png" />
+<img align="left" alt="Pandas" width="100px" src="https://github.com/ggarkoti02/ggarkoti02/blob/main/Images/pandas.png" />
+<img align="left" alt="Matplotlib" width="100px" src="https://github.com/ggarkoti02/ggarkoti02/blob/main/Images/matplotlib.png" />
+<img align="left" alt="Sicikit-learn" width="60px" src="https://github.com/ggarkoti02/ggarkoti02/blob/main/Images/sklearn.png" />
+<img align="left" alt="Tensorflow" width="40px" src="https://github.com/ggarkoti02/ggarkoti02/blob/main/Images/tensorflow.png" />
+<img align="left" alt="Keras" width="40px" src="https://github.com/ggarkoti02/ggarkoti02/blob/main/Images/keras.png" />
+<img align="left" alt="Postgres" width="100px" src="https://github.com/ggarkoti02/ggarkoti02/blob/main/Images/postgre.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </p>
